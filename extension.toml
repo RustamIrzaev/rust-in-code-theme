@@ -1,0 +1,6 @@
+id = "rust-in-code-theme"
+name = "Rust In Code Theme"
+version = "0.0.1"
+license = "MIT"
+authors = ["Rustam Irzaiev"]
+repository = "https://github.com/RustamIrzaev/rust-in-code-theme"

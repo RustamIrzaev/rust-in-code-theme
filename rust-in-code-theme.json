@@ -1,0 +1,68 @@
+{
+	"$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+	"name": "Rust In Code",
+	"author": "Rustam Irzaiev",
+	"themes": [
+		{
+			"name": "Rust In Dark Code",
+			"appearance": "dark",
+			"style": {
+				"editor.foreground": "#D1D1D1",
+				"editor.selectionBackground": "#44475A",
+				"editorCursor.foreground": "#FFCC00",
+				"sideBar.background": "#1E1E1E",
+				"sideBar.foreground": "#9DA5B4",
+				"statusBar.background": "#21252B",
+				"statusBar.foreground": "#ABB2BF",
+				"editor.lineHighlightBackground": "#3C3F41",
+				"text": "#D1D1D1",
+				"text.accent": "#FFCC00",
+				"predictive": "#AA7700",
+				"syntax": {
+					"keyword": {
+						"color": "#A1C6EA"
+					},
+					"string": {
+						"color": "#F8C555"
+					},
+					"variable": {
+						"color": "#F28B8B"
+					},
+					"function": {
+						"color": "#94E1B2"
+					},
+					"comment": {
+						"color": "#5C6370"
+					},
+					"number": {
+						"color": "#E79D35"
+					},
+					"operator": {
+						"color": "#C678DD"
+					},
+					"class": {
+						"color": "#E06C75"
+					},
+					"type": {
+						"color": "#29B8DB"
+					},
+					"attribute": {
+						"color": "#F8C555"
+					},
+					"error": {
+						"color": "#E06C75"
+					},
+					"warning": {
+						"color": "#E5C07B"
+					},
+					"info": {
+						"color": "#56B6C2"
+					},
+					"success": {
+						"color": "#98C379"
+					}
+				}
+			}
+		}
+	]
+}
